@@ -10,8 +10,6 @@
 
 
 
-![image-20200223231758890](C:\Users\18301\Desktop\image-20200223231758890.png)
-
 
 
 1. [Task-Aware Monocular Depth Estimation for 3D Object Detection](https://arxiv.org/abs/1909.07701)
@@ -36,7 +34,7 @@
 
 # 基于立体视觉的3D检测
 
-![image-20200223231827080](C:\Users\18301\Desktop\image-20200223231827080.png)
+
 
 
 
@@ -47,7 +45,6 @@
 
 # 基于激光雷达点云的3D检测
 
-![image-20200223231856518](C:\Users\18301\Desktop\image-20200223231856518.png)
 
 
 
@@ -76,7 +73,6 @@
 
 # 基于摄像头和激光雷达融合的3D目标检测
 
-![image-20200223231920757](C:\Users\18301\Desktop\image-20200223231920757.png)
 
 
 
