@@ -6,8 +6,6 @@
 
 
 
-
-
 # 基于单目图像的3D检测
 
 
@@ -90,4 +88,5 @@
 6. [MVX-Net: Multimodal VoxelNet for 3D Object Detection](https://arxiv.org/pdf/1904.01649.pdf)
 7. [Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation](https://arxiv.org/abs/1904.11466v1)
 8. [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/abs/1901.02237v1)
+
 
