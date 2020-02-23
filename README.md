@@ -10,7 +10,7 @@
 
 
 
-![image-20200223230340091](C:\Users\18301\AppData\Roaming\Typora\typora-user-images\image-20200223230340091.png)
+![image-20200223231758890](C:\Users\18301\Desktop\image-20200223231758890.png)
 
 
 
@@ -36,7 +36,7 @@
 
 # 基于立体视觉的3D检测
 
-![image-20200223230658874](C:\Users\18301\AppData\Roaming\Typora\typora-user-images\image-20200223230658874.png)
+![image-20200223231827080](C:\Users\18301\Desktop\image-20200223231827080.png)
 
 
 
@@ -47,7 +47,7 @@
 
 # 基于激光雷达点云的3D检测
 
-![image-20200223230846545](C:\Users\18301\AppData\Roaming\Typora\typora-user-images\image-20200223230846545.png)
+![image-20200223231856518](C:\Users\18301\Desktop\image-20200223231856518.png)
 
 
 
@@ -76,7 +76,7 @@
 
 # 基于摄像头和激光雷达融合的3D目标检测
 
-![image-20200223230918219](C:\Users\18301\AppData\Roaming\Typora\typora-user-images\image-20200223230918219.png)
+![image-20200223231920757](C:\Users\18301\Desktop\image-20200223231920757.png)
 
 
 
@@ -88,5 +88,4 @@
 6. [MVX-Net: Multimodal VoxelNet for 3D Object Detection](https://arxiv.org/pdf/1904.01649.pdf)
 7. [Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation](https://arxiv.org/abs/1904.11466v1)
 8. [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/abs/1901.02237v1)
-
 
