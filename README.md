@@ -10,6 +10,9 @@
 
 
 
+![image-20200223231758890](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231758890.png)
+
+
 
 1. [Task-Aware Monocular Depth Estimation for 3D Object Detection](https://arxiv.org/abs/1909.07701)
 2. [M3D-RPN: Monocular 3D Region Proposal Network for Object Detection](https://arxiv.org/abs/1907.06038v1)
@@ -33,6 +36,7 @@
 
 # 基于立体视觉的3D检测
 
+![image-20200223231827080](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231827080.png)
 
 
 
@@ -42,6 +46,8 @@
 4. [Stereo R-CNN based 3D Object Detection for Autonomous Driving](https://arxiv.org/pdf/1902.09738.pdf)
 
 # 基于激光雷达点云的3D检测
+
+![image-20200223231856518](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231856518.png)
 
 
 
@@ -69,6 +75,8 @@
 
 
 # 基于摄像头和激光雷达融合的3D目标检测
+
+![image-20200223231920757](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231920757.png)
 
 
 
