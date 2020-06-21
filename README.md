@@ -44,11 +44,13 @@
 2. [Triangulation Learning Network: from Monocular to Stereo 3D Object Detection](https://arxiv.org/pdf/1906.01193.pdf)
 3. [Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving](http://www.cs.cornell.edu/~yanwang/project/plidar/)
 4. [Stereo R-CNN based 3D Object Detection for Autonomous Driving](https://arxiv.org/pdf/1902.09738.pdf)
+5. [IDA-3D: Instance-Depth-Aware 3D Object Detection from Stereo Vision for Autonomous Driving（CVPR2020）](http://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf) [源代码](https://github.com/swords123/IDA-3D)
+6. [Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation（CVPR2020)](https://arxiv.org/abs/2004.03572) [源代码](https://github.com/zju3dv/disprcn)
+7. [DSGN: Deep Stereo Geometry Network for 3D Object Detection(CVPR2020)](https://arxiv.org/abs/2001.03398) [源代码](https://github.com/chenyilun95/DSGN)
 
 # 基于激光雷达点云的3D检测
 
 ![image-20200223231856518](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231856518.png)
-
 
 
 1. [End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds]()
@@ -71,6 +73,12 @@
 18. [StarNet: Targeted Computation for Object Detection in Point Clouds](https://arxiv.org/abs/1908.11069)
 19. [Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection](https://arxiv.org/abs/1908.09492v1)
 20. [LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://arxiv.org/abs/1903.08701v1)
+21. [Structure Aware Single-stage 3D Object Detection from Point Cloud（CVPR2020)](http://openaccess.thecvf.com/content_CVPR_2020/html/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.html) [源代码](https://github.com/skyhehe123/SA-SSD)
+22. [MLCVNet: Multi-Level Context VoteNet for 3D Object Detection（CVPR2020)](https://arxiv.org/abs/2004.05679) [源代码](https://github.com/NUAAXQ/MLCVNet)
+23. [3DSSD: Point-based 3D Single Stage Object Detector（CVPR2020）](https://arxiv.org/abs/2002.10187) [源代码](https://github.com/tomztyang/3DSSD)
+24. [LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention（CVPR2020）](https://arxiv.org/abs/2004.01389) [源代码](https://github.com/yinjunbo/3DVID)
+25. [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection(CVPR2020)](https://arxiv.org/abs/1912.13192) [源代码](https://github.com/sshaoshuai/PV-RCNN)
+26. [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud（CVPR2020）](https://arxiv.org/abs/2003.01251) [源代码](https://github.com/WeijingShi/Point-GNN)
 
 
 
@@ -88,4 +96,5 @@
 6. [MVX-Net: Multimodal VoxelNet for 3D Object Detection](https://arxiv.org/pdf/1904.01649.pdf)
 7. [Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation](https://arxiv.org/abs/1904.11466v1)
 8. [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/abs/1901.02237v1)
+9. [End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection（CVPR2020）](https://arxiv.org/abs/2004.03080) [源代码](https://github.com/mileyan/pseudo-LiDAR_e2e)
 
