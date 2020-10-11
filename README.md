@@ -77,6 +77,10 @@
 30. [LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention（CVPR2020）](https://arxiv.org/abs/2004.01389) [源代码](https://github.com/yinjunbo/3DVID)
 31. [PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection(CVPR2020)](https://arxiv.org/abs/1912.13192) [源代码](https://github.com/sshaoshuai/PV-RCNN)
 32. [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud（CVPR2020）](https://arxiv.org/abs/2003.01251) [源代码](https://github.com/WeijingShi/Point-GNN)
+33.  [MLCVNet: Multi-Level Context VoteNet for 3D Object Detection（CVPR2020）](https://arxiv.org/pdf/2004.05679)
+34. [Density Based Clustering for 3D Object Detection in Point Clouds（CVPR2020）](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ahmed_Density-Based_Clustering_for_3D_Object_Detection_in_Point_Clouds_CVPR_2020_paper.pdf)
+35.  [What You See is What You Get: Exploiting Visibility for 3D Object Detection（CVPR2020)](https://arxiv.org/pdf/1912.04986.pdf)
+36. [PointPainting: Sequential Fusion for 3D Object Detection(CVPR2020)](https://arxiv.org/pdf/1911.10150.pdf)
 # 基于摄像头和激光雷达融合的3D目标检测
 
 ![image-20200223231920757](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231920757.png)
