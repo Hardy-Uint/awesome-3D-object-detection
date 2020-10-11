@@ -1,3 +1,5 @@
+
+
 > 作者：Tom Hardy
 >
 > 公众号：[3D视觉工坊](https://mp.weixin.qq.com/s?__biz=MzU1MjY4MTA1MQ==&mid=2247484684&idx=1&sn=e812540aee03a4fc54e44d5555ccb843&chksm=fbff2e38cc88a72e180f0f6b0f7b906dd616e7d71fffb9205d529f1238e8ef0f0c5554c27dd7&token=691734513&lang=zh_CN#rd)
@@ -9,10 +11,6 @@
 
 
 # 基于单目图像的3D检测
-
-
-
-![image-20200223231758890](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231758890.png)
 
 1. [Task-Aware Monocular Depth Estimation for 3D Object Detection](https://arxiv.org/abs/1909.07701)
 2. [M3D-RPN: Monocular 3D Region Proposal Network for Object Detection](https://arxiv.org/abs/1907.06038v1)
@@ -26,11 +24,10 @@
 10. [Task-Aware Monocular Depth Estimation for 3D Object Detection](https://arxiv.org/abs/1909.07701)
 11. [M3D-RPN: Monocular 3D Region Proposal Network for Object Detection](https://arxiv.org/abs/1907.06038v1)
 12. [Deconvolutional Networks for Point-Cloud Vehicle Detection and Tracking in Driving Scenarios](https://arxiv.org/abs/1808.07935)
+13. [Learning Depth-Guided Convolutions for Monocular 3D Object Detection（CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.pdf)
+14. [End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection（CVPR2020](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qian_End-to-End_Pseudo-LiDAR_for_Image-Based_3D_Object_Detection_CVPR_2020_paper.pdf)
+
 # 基于立体视觉的3D检测
-
-![image-20200223231827080](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231827080.png)
-
-
 
 1. [Object-Centric Stereo Matching for 3D Object Detection](https://arxiv.org/pdf/1909.07566.pdf)
 2. [Triangulation Learning Network: from Monocular to Stereo 3D Object Detection](https://arxiv.org/pdf/1906.01193.pdf)
@@ -41,8 +38,6 @@
 7. [DSGN: Deep Stereo Geometry Network for 3D Object Detection(CVPR2020)](https://arxiv.org/abs/2001.03398) [源代码](https://github.com/chenyilun95/DSGN)
 
 # 基于激光雷达点云的3D检测
-
-![image-20200223231856518](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231856518.png)
 
 
 1. [End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds]()
@@ -81,11 +76,9 @@
 34. [Density Based Clustering for 3D Object Detection in Point Clouds（CVPR2020）](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ahmed_Density-Based_Clustering_for_3D_Object_Detection_in_Point_Clouds_CVPR_2020_paper.pdf)
 35.  [What You See is What You Get: Exploiting Visibility for 3D Object Detection（CVPR2020)](https://arxiv.org/pdf/1912.04986.pdf)
 36. [PointPainting: Sequential Fusion for 3D Object Detection(CVPR2020)](https://arxiv.org/pdf/1911.10150.pdf)
+37. [HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection（CVPR2020](https://arxiv.org/pdf/2003.00186)
+
 # 基于摄像头和激光雷达融合的3D目标检测
-
-![image-20200223231920757](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master/image-20200223231920757.png)
-
-
 
 1. [MLOD: A multi-view 3D object detection based on robust feature fusion method](https://arxiv.org/abs/1909.04163v1)
 2. [Multi-Sensor 3D Object Box Refinement for Autonomous Driving](https://arxiv.org/abs/1909.04942?context=cs)
@@ -96,4 +89,3 @@
 7. [Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation](https://arxiv.org/abs/1904.11466v1)
 8. [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/abs/1901.02237v1)
 9. [End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection（CVPR2020）](https://arxiv.org/abs/2004.03080) [源代码](https://github.com/mileyan/pseudo-LiDAR_e2e)
-
