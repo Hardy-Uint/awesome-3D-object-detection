@@ -8,8 +8,6 @@
 
 主要针对3D object相关算法进行了汇总，分为基于RGB图像、立体视觉、点云、融合四种方式，欢迎补充~
 
-
-
 # 基于单目图像的3D检测
 
 1. [Task-Aware Monocular Depth Estimation for 3D Object Detection](https://arxiv.org/abs/1909.07701)
@@ -76,7 +74,7 @@
 34. [Density Based Clustering for 3D Object Detection in Point Clouds（CVPR2020）](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ahmed_Density-Based_Clustering_for_3D_Object_Detection_in_Point_Clouds_CVPR_2020_paper.pdf)
 35.  [What You See is What You Get: Exploiting Visibility for 3D Object Detection（CVPR2020)](https://arxiv.org/pdf/1912.04986.pdf)
 36. [PointPainting: Sequential Fusion for 3D Object Detection(CVPR2020)](https://arxiv.org/pdf/1911.10150.pdf)
-37. [HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection（CVPR2020](https://arxiv.org/pdf/2003.00186)
+37. [HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection（CVPR2020)](https://arxiv.org/pdf/2003.00186)
 
 # 基于摄像头和激光雷达融合的3D目标检测
 
