@@ -82,4 +82,16 @@
 
 ### e、基于Radar和RGB方式的3D检测
 
-1. [CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection
+1. [CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2011.04841.pdf)
+
+### f、基于融合数据
+
+1. [MLOD: A multi-view 3D object detection based on robust feature fusion method](https://arxiv.org/abs/1909.04163v1)
+2. [Multi-Sensor 3D Object Box Refinement for Autonomous Driving](https://arxiv.org/abs/1909.04942?context=cs)
+3. [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/1906.06310v1)
+4. [Improving 3D Object Detection for Pedestrians with Virtual Multi-View Synthesis Orientation Estimation](https://arxiv.org/abs/1907.06777)
+5. [Class-specific Anchoring Proposal for 3D Object Recognition in LIDAR and RGB Images](https://arxiv.org/abs/1907.09081)
+6. [MVX-Net: Multimodal VoxelNet for 3D Object Detection](https://arxiv.org/pdf/1904.01649.pdf)
+7. [Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation](https://arxiv.org/abs/1904.11466v1)
+8. [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/abs/1901.02237v1)
+9. [End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection（CVPR2020）](https://arxiv.org/abs/2004.03080) [源代码](https://github.com/mileyan/pseudo-LiDAR_e2e)
