@@ -8,7 +8,7 @@
 
 主要针对3D object相关算法进行了汇总，分为基于RGB图像、RGB-D数据、立体视觉、点云、融合等方式，欢迎补充~
 
-### a、基于点云
+##### 一、基于点云的三维目标检测算法
 
 1. [End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master)
 2. [Vehicle Detection from 3D Lidar Using Fully Convolutional Network(百度早期工作)](https://arxiv.org/abs/1608.07916)
@@ -47,8 +47,11 @@
 35. [What You See is What You Get: Exploiting Visibility for 3D Object Detection（CVPR2020)](https://arxiv.org/pdf/1912.04986.pdf)
 36. [PointPainting: Sequential Fusion for 3D Object Detection(CVPR2020)](https://arxiv.org/pdf/1911.10150.pdf)
 37. [HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection（CVPR2020)](https://arxiv.org/pdf/2003.00186)
+38. [LiDAR R-CNN: An Efficient and Universal 3D Object Detector（CVPR2021)](https://arxiv.org/abs/2103.15297)
+39. [Center-based 3D Object Detection and Tracking(CVPR2021)](https://arxiv.org/abs/2006.11275)
+40. [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection(CVPR2021)](https://arxiv.org/pdf/2012.04355.pdf)
 
-### b、基于单目
+##### 二、基于单目的三维目标检测算法
 
 1. [Task-Aware Monocular Depth Estimation for 3D Object Detection](https://arxiv.org/abs/1909.07701)
 2. [M3D-RPN: Monocular 3D Region Proposal Network for Object Detection](https://arxiv.org/abs/1907.06038v1)
@@ -64,8 +67,13 @@
 12. [Deconvolutional Networks for Point-Cloud Vehicle Detection and Tracking in Driving Scenarios](https://arxiv.org/abs/1808.07935)
 13. [Learning Depth-Guided Convolutions for Monocular 3D Object Detection（CVPR2020）](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.pdf)
 14. [End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection（CVPR2020）](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qian_End-to-End_Pseudo-LiDAR_for_Image-Based_3D_Object_Detection_CVPR_2020_paper.pdf)
+15. [GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection(CVPR2021)](https://arxiv.org/abs/2103.17202)
+16.  [Delving into Localization Errors for Monocular 3D Object Detection(CVPR2021)](https://arxiv.org/abs/2103.16237)
+17. [M3DSSD: Monocular 3D Single Stage Object Detector(CVPR2021)](https://arxiv.org/abs/2103.13164)
+18. [MonoRUn: Monocular 3D Object Detection by Self-Supervised Reconstruction and Uncertainty Propagation(CVPR2021)](https://arxiv.org/abs/2103.12605)
+19. [Categorical Depth Distribution Network for Monocular 3D Object Detection(CVPR2021)](https://arxiv.org/abs/2103.01100)
 
-### c、基于双目
+##### 三、基于双目的三维目标检测算法
 
 1. [Object-Centric Stereo Matching for 3D Object Detection](https://arxiv.org/pdf/1909.07566.pdf)
 2. [Triangulation Learning Network: from Monocular to Stereo 3D Object Detection](https://arxiv.org/pdf/1906.01193.pdf)
@@ -75,16 +83,18 @@
 6. [Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation（CVPR2020)](https://arxiv.org/abs/2004.03572) [源代码](https://github.com/zju3dv/disprcn)
 7. [DSGN: Deep Stereo Geometry Network for 3D Object Detection(CVPR2020)](https://arxiv.org/abs/2001.03398) [源代码](https://github.com/chenyilun95/DSGN)
 
-### d、基于RGB-D
+##### 四、基于RGB-D的三维目标检测算法
 
 1. Frustum PointNets for 3D Object Detection from RGB-D Data
 2. Frustum VoxNet for 3D object detection from RGB-D or Depth images
 
-### e、基于Radar和RGB方式的3D检测
+##### 五、基于Radar和RGB方式的三维目标检测算法
 
 1. [CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2011.04841.pdf)
 
-### f、基于融合数据
+
+
+##### 六、基于融合数据的三维目标检测算法
 
 1. [MLOD: A multi-view 3D object detection based on robust feature fusion method](https://arxiv.org/abs/1909.04163v1)
 2. [Multi-Sensor 3D Object Box Refinement for Autonomous Driving](https://arxiv.org/abs/1909.04942?context=cs)
