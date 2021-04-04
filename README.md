@@ -8,7 +8,7 @@
 
 主要针对3D object相关算法进行了汇总，分为基于RGB图像、立体视觉、点云、融合四种方式，欢迎补充~
 
-##### a、基于点云
+### a、基于点云
 
 1. [End-to-End Multi-View Fusion for 3D Object Detection in LiDAR Point Clouds](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-object-detection/blob/master)
 2. [Vehicle Detection from 3D Lidar Using Fully Convolutional Network(百度早期工作)](https://arxiv.org/abs/1608.07916)
@@ -48,7 +48,7 @@
 36. [PointPainting: Sequential Fusion for 3D Object Detection(CVPR2020)](https://arxiv.org/pdf/1911.10150.pdf)
 37. [HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection（CVPR2020)](https://arxiv.org/pdf/2003.00186)
 
-##### b、基于单目
+### b、基于单目
 
 1. [Task-Aware Monocular Depth Estimation for 3D Object Detection](https://arxiv.org/abs/1909.07701)
 2. [M3D-RPN: Monocular 3D Region Proposal Network for Object Detection](https://arxiv.org/abs/1907.06038v1)
@@ -65,7 +65,7 @@
 13. [Learning Depth-Guided Convolutions for Monocular 3D Object Detection（CVPR2020）](http://openaccess.thecvf.com/content_CVPR_2020/papers/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.pdf)
 14. [End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection（CVPR2020）](http://openaccess.thecvf.com/content_CVPR_2020/papers/Qian_End-to-End_Pseudo-LiDAR_for_Image-Based_3D_Object_Detection_CVPR_2020_paper.pdf)
 
-##### c、基于双目
+### c、基于双目
 
 1. [Object-Centric Stereo Matching for 3D Object Detection](https://arxiv.org/pdf/1909.07566.pdf)
 2. [Triangulation Learning Network: from Monocular to Stereo 3D Object Detection](https://arxiv.org/pdf/1906.01193.pdf)
@@ -75,23 +75,11 @@
 6. [Disp R-CNN: Stereo 3D Object Detection via Shape Prior Guided Instance Disparity Estimation（CVPR2020)](https://arxiv.org/abs/2004.03572) [源代码](https://github.com/zju3dv/disprcn)
 7. [DSGN: Deep Stereo Geometry Network for 3D Object Detection(CVPR2020)](https://arxiv.org/abs/2001.03398) [源代码](https://github.com/chenyilun95/DSGN)
 
-##### d、基于RGB-D
+### d、基于RGB-D
 
 1. Frustum PointNets for 3D Object Detection from RGB-D Data
 2. Frustum VoxNet for 3D object detection from RGB-D or Depth images
 
-##### e、基于Radar和RGB方式的3D检测
+### e、基于Radar和RGB方式的3D检测
 
-1. [CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2011.04841.pdf)
-
-##### f、基于融合数据
-
-1. [MLOD: A multi-view 3D object detection based on robust feature fusion method](https://arxiv.org/abs/1909.04163v1)
-2. [Multi-Sensor 3D Object Box Refinement for Autonomous Driving](https://arxiv.org/abs/1909.04942?context=cs)
-3. [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/1906.06310v1)
-4. [Improving 3D Object Detection for Pedestrians with Virtual Multi-View Synthesis Orientation Estimation](https://arxiv.org/abs/1907.06777)
-5. [Class-specific Anchoring Proposal for 3D Object Recognition in LIDAR and RGB Images](https://arxiv.org/abs/1907.09081)
-6. [MVX-Net: Multimodal VoxelNet for 3D Object Detection](https://arxiv.org/pdf/1904.01649.pdf)
-7. [Sensor Fusion for Joint 3D Object Detection and Semantic Segmentation](https://arxiv.org/abs/1904.11466v1)
-8. [3D Object Detection Using Scale Invariant and Feature Reweighting Networks](https://arxiv.org/abs/1901.02237v1)
-9. [End-to-End Pseudo-LiDAR for Image-Based 3D Object Detection（CVPR2020）](https://arxiv.org/abs/2004.03080) [源代码
+1. [CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection
